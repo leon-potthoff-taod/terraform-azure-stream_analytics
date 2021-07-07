@@ -1,0 +1,1 @@
+# terraform-azure-stream_analytics
